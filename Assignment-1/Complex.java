@@ -4,7 +4,7 @@
 
  Name : Suraj B. Sakhare 
  College : P.E.S Modern Pune
- Class : SE -IT 
+ Class : SE-IT 
  Roll no: 25048 
  Assignment 1: Complex Number Operation
 

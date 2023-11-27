@@ -182,7 +182,7 @@ class projectManager extends Employee // For Project Manager
         System.out.println("Mail id of the employee is: " + mail_id);
         System.out.println("Mobile number of the employee is: " + mobile_no);
     }	}
-public class Main {
+public class EmployeeDataBase {
 	 public static void menu()
 	    {
 	        System.out.println("\n---------------------------------------") ;

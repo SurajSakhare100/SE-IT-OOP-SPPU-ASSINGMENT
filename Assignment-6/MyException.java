@@ -1,3 +1,13 @@
+/*
+============================================================================
+ *********** OOPL ASSIGNMENT 06 ************
+ Name : Suraj B. Sakhare 
+ College : P.E.S Modern Pune
+ Class : SE-IT 
+ Roll no: 25048 
+ Assignment 6: Exception Handling
+============================================================================
+*/
 import java.util.*;
 
 public class MyException {

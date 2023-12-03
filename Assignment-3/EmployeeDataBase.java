@@ -1,14 +1,13 @@
 /*
-
-******* OOPL ASSIGNMENT 03 ******    
-
+============================================================================
+ *********** OOPL ASSIGNMENT 03 ************
  Name : Suraj B. Sakhare 
  College : P.E.S Modern Pune
  Class : SE-IT 
  Roll no: 25048 
- Assignment 3: Employee DataBase Using Inheritance
-
- */
+ Assignment 3: Employee Data-Base
+============================================================================
+*/
 import java.util.*;
 
 class Employee {
@@ -183,7 +182,7 @@ class projectManager extends Employee // For Project Manager
         System.out.println("Mobile number of the employee is: " + mobile_no);
     }	}
 public class EmployeeDataBase {
-	 public static void menu()
+	public static void menu()
 	    {
 	        System.out.println("\n---------------------------------------") ;
 	        System.out.println("1.Programmer") ;

@@ -1,16 +1,14 @@
 /*
-
-******* OOPL ASSIGNMENT 04 ******    
-
+============================================================================
+ *********** OOPL ASSIGNMENT 07 ************
  Name : Suraj B. Sakhare 
  College : P.E.S Modern Pune
  Class : SE-IT 
  Roll no: 25048 
- Assignment 4: Generic_Template
-
- */
+ Assignment 7: Generic Template
+============================================================================
+*/
 import java.util.*;
-
 class Array {
     Scanner input = new Scanner(System.in);
     int count = 0;
@@ -76,7 +74,7 @@ public class Generic {
     public static void main(String[] args) throws Exception {
         Array obj = new Array();
         Scanner input = new Scanner(System.in);
-        System.out.println("\n 1.Even Number 2.odd Number 3.Palindrome");
+        System.out.println("\n 1.Even Number 2.odd Number 3.Palindrome 4.Exit");
         int choice;
         do {
             System.out.print("\nEnter Choice: ");

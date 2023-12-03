@@ -1,14 +1,13 @@
 /*
-
-******* OOPL ASSIGNMENT 01 ******    
-
+============================================================================
+ *********** OOPL ASSIGNMENT 01 ************
  Name : Suraj B. Sakhare 
  College : P.E.S Modern Pune
  Class : SE-IT 
  Roll no: 25048 
  Assignment 1: Complex Number Operation
-
- */
+============================================================================
+*/
 
 import java.util.*;
 public class Complex {
